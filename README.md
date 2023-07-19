@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petero010
 - 👀 I’m interested coding & rust language
-- 🌱 I’m currently learning rust language. I'd like to learn solidity soon.
+- 🌱 I’m currently learning rust language. I'd like to learn solidity soon
 
 
 <!---
